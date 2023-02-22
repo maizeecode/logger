@@ -1,1 +1,5 @@
 # logger
+
+```shell
+pnpm changeset
+```
