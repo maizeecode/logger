@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "A simple logger",
   "private": false,
-  "main": "index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
   "scripts": {
     "lint": "tsc",
     "dev": "vitest",
